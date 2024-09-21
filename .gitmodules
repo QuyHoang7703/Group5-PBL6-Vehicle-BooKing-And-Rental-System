@@ -1,0 +1,9 @@
+[submodule "vehicle-booking-and-rental-system-frontend"]
+	path = vehicle-booking-and-rental-system-frontend
+	url = https://github.com/MayMay203/vehicle-booking-and-rental-system-frontend.git
+[submodule "vehicle_booking_and_rental_system_backend"]
+	path = vehicle_booking_and_rental_system_backend
+	url = https://github.com/QuyHoang7703/vehicle_booking_and_rental_system_backend.git
+[submodule "vehicle-booking-and-rental-app"]
+	path = vehicle-booking-and-rental-app
+	url = https://github.com/MayMay203/vehicle-booking-and-rental-app.git
