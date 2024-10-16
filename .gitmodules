@@ -5,3 +5,6 @@
 	path = vehicle_booking_and_rental_system_backend
 	url = https://github.com/QuyHoang7703/vehicle_booking_and_rental_system_backend.git
 
+[submodule "vehicle-booking-and-rental-system-app"]
+	path = vehicle-booking-and-rental-system-app
+	url = https://github.com/phanhung2702/vehicle-booking-and-rental-system-app.git
