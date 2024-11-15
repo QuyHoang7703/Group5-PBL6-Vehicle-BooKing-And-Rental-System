@@ -8,3 +8,6 @@
 [submodule "vehicle-booking-and-rental-system-app"]
 	path = vehicle-booking-and-rental-system-app
 	url = https://github.com/phanhung2702/vehicle-booking-and-rental-system-app.git
+[submodule "driver-app"]
+	path = driver-app
+	url = https://github.com/MayMay203/driver-app.git
